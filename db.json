@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "hello",
+      "title": "dfgd",
+      "author": "ddfgdfgdf"
+    },
+    {
+      "id": [
+        ""
+      ],
+      "title": [
+        ""
+      ],
+      "author": [
+        ""
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Hey People, what's up?",
+      "author": "Faisal Khan"
+    },
+    {
+      "id": "3",
+      "title": "This is a test post",
+      "author": "Roushan Syed"
+    },
+    {
+      "id": "4",
+      "title": "This is also a test post",
+      "author": "Roushan Syed"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

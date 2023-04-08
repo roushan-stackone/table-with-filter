@@ -1,0 +1,4 @@
+<div class="d-flex flex-column">
+    <label>Filter Posts</label>
+    <input [ngModel]="filterText" (ngModelChange)="emitFilterValue($event)" type="text">
+</div>
